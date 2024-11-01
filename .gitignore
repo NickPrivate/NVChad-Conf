@@ -1,0 +1,3 @@
+echo "lazy-lock.json" >> .gitignore
+echo "*.backup" >> .gitignore
+echo "*.swp" >> .gitignore
